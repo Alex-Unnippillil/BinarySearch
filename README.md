@@ -2,9 +2,13 @@
 Binary Search w/ check sort, find min/max
 
 Features
+
 array input
+
 search target value
+
 array sort check
+
 find array min max value
 
 
